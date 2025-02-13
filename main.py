@@ -1,3 +1,1 @@
-import sys
-
-print((sys.version))
+print("Hellow world")
